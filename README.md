@@ -4,13 +4,13 @@ This project performs sentiment analysis on tweets using natural language proces
 
 DATASET:
 
-•File Used: twitter_training.csv
-•Format: CSV
-•Columns:
-°ID: Tweet ID
-°Entity: Brand or company name (e.g., Facebook, Google)
-°Sentiment: (Original sentiment label, not used in classification)
-°Tweet: The actual tweet content
+• File Used: twitter_training.csv
+• Format: CSV
+• Columns:
+° ID: Tweet ID
+° Entity: Brand or company name (e.g., Facebook, Google)
+° Sentiment: (Original sentiment label, not used in classification)
+° Tweet: The actual tweet content
 
 LIBRARIES USED:
 
